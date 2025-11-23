@@ -63,11 +63,12 @@ gcc project.c -o project
 
 
 6. Use menu options to add, view, update, and delete feedback
-Screenshots:
+   
+# Screenshots:
 
-![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20194023.png?raw=true)
+1.![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20194023.png?raw=true)
 
-
+2.![image alt](
 
 
 
