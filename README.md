@@ -1,7 +1,7 @@
 # customer-feedback-management-system
 This project in C program that helps store and manage customer feedback. Users can add, view, search, update, and delete feedback using a simple menu .The feedback is saved in a file so it not lost .The project teaches basic data handling, file use, and simple menu operations in C. 
 
-Abstract
+# Abstract
 This project is a simple C program that helps store and manage customer feedback. It allows users to add, view, search, update, and delete feedback using a menu-based system. All feedback is saved in a file so the information is not lost. The project helps beginners learn file handling, structures, loops, and basic data management in C.
 
 # Features of the Program
