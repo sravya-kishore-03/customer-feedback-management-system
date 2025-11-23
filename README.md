@@ -68,7 +68,7 @@ gcc project.c -o project
 
 1.![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20194023.png?raw=true)
 
-2.![image alt](
+2.![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20210705.png?raw=true)
 
 
 
