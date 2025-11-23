@@ -58,9 +58,7 @@ Files Used: .c source file + .txt or .dat for storing feedback
 gcc project.c -o project
 
 
-5. Run the program:
-
-./.exe
+5. Run the program:./a.exe
 6.Use menu options to add, view, update,and delete feedback.
 
 
