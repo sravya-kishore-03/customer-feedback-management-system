@@ -4,7 +4,7 @@ This project in C program that helps store and manage customer feedback. Users c
 Abstract
 This project is a simple C program that helps store and manage customer feedback. It allows users to add, view, search, update, and delete feedback using a menu-based system. All feedback is saved in a file so the information is not lost. The project helps beginners learn file handling, structures, loops, and basic data management in C.
 
- Features of the Program
+# Features of the Program
 
 Add new customer feedback
 
@@ -20,7 +20,7 @@ File storage so data remains safe
 
 User-friendly menu system
 
- Functional Requirements
+ # Functional Requirements
 
 The program should allow users to input feedback details.
 
@@ -32,7 +32,7 @@ Data should be stored and retrieved using files.
 
 The program menu should repeat until the user exits.
 
- Technical Requirements
+ # Technical Requirements
 
 Programming Language: C
 
@@ -42,7 +42,7 @@ Operating System: Windows / Linux
 
 Files Used: .c source file + .txt or .dat for storing feedback
 
-How to Run the Code
+# How to Run the Code
 
 1. Install a C compiler (GCC recommended).
 
