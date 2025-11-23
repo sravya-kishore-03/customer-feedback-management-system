@@ -66,3 +66,9 @@ gcc project.c -o project
 Screenshots:
 
 ![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20194023.png?raw=true)
+
+
+
+
+
+
