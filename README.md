@@ -61,7 +61,7 @@ gcc project.c -o project
 5. Run the program:./a.exe
 
 6.Use menu options to add, view, update,and delete feedback.
-   
+    
 # Screenshots:
 
 1.![image alt](https://github.com/sravya-kishore-03/customer-feedback-management-system/blob/main/Screenshot%202025-11-23%20194023.png?raw=true)
