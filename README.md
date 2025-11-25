@@ -44,13 +44,13 @@ Files Used: .c source file + .txt or .dat for storing feedback
 
 # How to Run the Code
 
-1. Install a C compiler (GCC recommended).
+1. Install the C/C++ extension.
 
 
-2. Download or clone this repository.
+2. Install MinGW or any C compiler.
 
 
-3. Open the project folder in any C IDE or terminal.
+3. Open the project folder in VS Code.
 
 
 4. Compile using:
@@ -59,10 +59,8 @@ gcc project.c -o project
 
 
 5. Run the program:./a.exe
+
 6.Use menu options to add, view, update,and delete feedback.
-
-
-6. Use menu options to add, view, update, and delete feedback
    
 # Screenshots:
 
